@@ -13,5 +13,5 @@ brew cask install firefox-35
 brew cask install firefox-36
 ```
 
-[Homebrew Cask]:(http://caskroom.io)
-[Firefox]:(https://www.mozilla.org/en-GB/firefox/new/)
+[Homebrew Cask]: http://caskroom.io
+[Firefox]: https://www.mozilla.org/en-GB/firefox/new/
