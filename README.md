@@ -10,32 +10,33 @@ It is assumed that [brew] and [cask] have already been installed. If not refer t
 
 ### Install [brew]
 
-```shell
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
+	ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 ### Install [cask]
 
-```shell
-brew install caskroom/cask/brew-cask
-```
+	
+	brew install caskroom/cask/brew-cask
 
 ## Installing the firefox casks
 
-```shell
-brew tap smclernon/homebrew-firefox
-brew cask install firefox-34
-brew cask install firefox-35
-brew cask install firefox-36
-```
+	brew tap smclernon/homebrew-firefox
+	brew cask install firefox-34
+	brew cask install firefox-35
+	brew cask install firefox-36
+	brew cask install firefox-37
+	brew cask install firefox-38
+	brew cask install firefox-39
+	brew cask install firefox-40
 
 ## Uninstalling the casks
 
-```shell
-brew cask uninstall firefox-34
-brew cask uninstall firefox-35
-brew cask uninstall firefox-36
-```
+	brew cask uninstall firefox-34
+	brew cask uninstall firefox-35
+	brew cask uninstall firefox-36
+	brew cask uninstall firefox-37
+	brew cask uninstall firefox-38
+	brew cask uninstall firefox-39
+	brew cask uninstall firefox-40
 
 ## Auto updates
 
