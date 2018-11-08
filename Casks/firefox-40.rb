@@ -4,8 +4,8 @@ cask 'firefox-40' do
 
   url "https://ftp.mozilla.org/pub/firefox/releases/#{version}/mac/en-US/Firefox%20#{version}.dmg"
   appcast 'https://www.mozilla.org/en-US/firefox/releases/'
-  name 'Mozilla Firefox 40.0'
+  name 'Mozilla Firefox 40.0.2'
   homepage 'https://www.mozilla.org/firefox/'
-  
+
   app 'Firefox.app', :target => 'Firefox-40.app'
 end
